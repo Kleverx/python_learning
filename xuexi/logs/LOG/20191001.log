@@ -1,0 +1,21 @@
+[2019-10-01 20:41:22,145][DEBUG][__main__.py][<module>][ 14]: running __main__
+[2019-10-01 20:41:22,146][DEBUG][adble.py][_connect][ 41]: 正在连接模拟器127.0.0.1:62001
+[2019-10-01 20:41:22,177][DEBUG][adble.py][_getDevice][101]: 获取连接的设备信息
+[2019-10-01 20:41:22,216][DEBUG][adble.py][_getDevice][106]: 已连接设备 ['127.0.0.1:62001']
+[2019-10-01 20:41:22,216][INFO][adble.py][__init__][ 31]: 当前设备 127.0.0.1:62001
+[2019-10-01 20:41:22,216][DEBUG][adble.py][_getIME][ 90]: 获取系统输入法list
+[2019-10-01 20:41:22,893][DEBUG][adble.py][_getIME][ 97]: 系统输入法：['com.android.inputservice/.InputService', 'io.appium.settings/.UnicodeIME']
+[2019-10-01 20:41:23,412][DEBUG][adble.py][_size][ 76]: 屏幕分辨率：['1080', '1920']
+[2019-10-01 20:41:23,412][DEBUG][adble.py][_setIME][ 82]: 设置输入法 com.android.adbkeyboard/.AdbIME
+[2019-10-01 20:41:23,412][DEBUG][adble.py][_setIME][ 83]: 正在设置输入法 com.android.adbkeyboard/.AdbIME
+[2019-10-01 20:41:23,993][DEBUG][adble.py][_setIME][ 85]: 设置输入法 com.android.adbkeyboard/.AdbIME 成功
+[2019-10-01 20:41:23,993][DEBUG][adble.py][uiautomator][123]: 文件不存在,无需删除
+[2019-10-01 20:41:24,464][DEBUG][xmler.py][pos][ 43]: //node[@resource-id="cn.xuexi.android:id/home_bottom_tab_button_mine"]/@bounds
+[2019-10-01 20:41:24,464][DEBUG][xmler.py][texts][ 38]: []
+[2019-10-01 20:41:24,464][DEBUG][xmler.py][pos][ 45]: []
+[2019-10-01 20:41:24,464][DEBUG][xmler.py][pos][ 51]: []
+[2019-10-01 20:41:24,474][DEBUG][adble.py][_setIME][ 82]: 设置输入法 com.android.inputservice/.InputService
+[2019-10-01 20:41:24,474][DEBUG][adble.py][_setIME][ 83]: 正在设置输入法 com.android.inputservice/.InputService
+[2019-10-01 20:41:24,997][DEBUG][adble.py][_setIME][ 85]: 设置输入法 com.android.inputservice/.InputService 成功
+[2019-10-01 20:41:24,997][DEBUG][adble.py][_disconnect][ 47]: 正在断开模拟器127.0.0.1:62001
+[2019-10-01 20:41:25,037][INFO][adble.py][_disconnect][ 49]: 断开模拟器127.0.0.1:62001 成功
